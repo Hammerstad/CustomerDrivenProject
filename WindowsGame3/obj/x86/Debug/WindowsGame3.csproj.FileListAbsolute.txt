@@ -1,0 +1,33 @@
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\plane.xnb
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\plane.xnb
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\AirPlaneModel.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Grass.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\blackTexture.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\1-grass-is-grass.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\GrassTerrain.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\1-grass-is-grass_0.xnb
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe.manifest
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.application
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe.manifest
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.application

@@ -1,0 +1,3 @@
+c:\users\eirik\documents\visual studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johanne\Documents\Johanne\NTNU\Haust2012\KundestyrtProsjekt\workspace\KPro\KPro\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eirik\Documents\Visual Studio 2010\Projects\KPro\WindowsGame3\WindowsGame3\WindowsGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
